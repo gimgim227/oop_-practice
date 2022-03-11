@@ -1,0 +1,14 @@
+D:\新人課程\OOP\oop_practice\obj\Debug\netcoreapp3.1\oop_practice.csproj.AssemblyReference.cache
+D:\新人課程\OOP\oop_practice\obj\Debug\netcoreapp3.1\oop_practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\新人課程\OOP\oop_practice\obj\Debug\netcoreapp3.1\oop_practice.AssemblyInfoInputs.cache
+D:\新人課程\OOP\oop_practice\obj\Debug\netcoreapp3.1\oop_practice.AssemblyInfo.cs
+D:\新人課程\OOP\oop_practice\obj\Debug\netcoreapp3.1\oop_practice.csproj.CoreCompileInputs.cache
+D:\新人課程\OOP\oop_practice\bin\Debug\netcoreapp3.1\oop_practice.exe
+D:\新人課程\OOP\oop_practice\bin\Debug\netcoreapp3.1\oop_practice.deps.json
+D:\新人課程\OOP\oop_practice\bin\Debug\netcoreapp3.1\oop_practice.runtimeconfig.json
+D:\新人課程\OOP\oop_practice\bin\Debug\netcoreapp3.1\oop_practice.runtimeconfig.dev.json
+D:\新人課程\OOP\oop_practice\bin\Debug\netcoreapp3.1\oop_practice.dll
+D:\新人課程\OOP\oop_practice\bin\Debug\netcoreapp3.1\oop_practice.pdb
+D:\新人課程\OOP\oop_practice\obj\Debug\netcoreapp3.1\oop_practice.dll
+D:\新人課程\OOP\oop_practice\obj\Debug\netcoreapp3.1\oop_practice.pdb
+D:\新人課程\OOP\oop_practice\obj\Debug\netcoreapp3.1\oop_practice.genruntimeconfig.cache
